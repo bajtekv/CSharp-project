@@ -63,9 +63,9 @@ namespace ciselne_soustavy
             Console.WriteLine("\n-------------------------------------------------------------------\nHello, welcome to Numeric System Convertor.\n-------------------------------------------------------------------");
             p.startConv();
         }
-        /**
- * \brief Třída charakterizující bankovní transakci
- */
+        /// <summary>
+        /// Funkce pro zadání vstupu
+        /// </summary>
         public void startConv()
         {
             Program p = new Program();
@@ -99,7 +99,11 @@ namespace ciselne_soustavy
                 p.startConv();
             }
         }
-
+        /// <summary>
+        /// Funkce pro hexa soustavu - nahrazuje čísla písmenama
+        /// </summary>
+        /// <param name="num">Vstup od uživatele v desítkové soustavě</param>
+        /// <returns>Převádí čísla 10-15 na písmena A-F</returns>
         public string numConv(double num)
         {
             // Basic switch convertor
@@ -122,7 +126,10 @@ namespace ciselne_soustavy
                     return Convert.ToString(num);
             }
         }
-
+        /// <summary>
+        /// Funkce pro výpočet hexa výstupu
+        /// </summary>
+        /// <param name="numToHex">Vstup od uživatele</param>
         public void toHex(double numToHex)
         {
             Console.WriteLine("\nYour number in decimal system was {0}.", numToHex);
@@ -149,8 +156,11 @@ namespace ciselne_soustavy
             }
 
         }
-
-        public void toOct(double numToOct) ///ahojky ja jsem test
+        /// <summary>
+        /// Funkce převádějící desítkové číslo na osmičkové
+        /// </summary>
+        /// <param name="numToOct">Vstup od uživatele</param>
+        public void toOct(double numToOct)
         {
             Console.WriteLine("\nYour number in decimal system was {0}.", numToOct);
             double divide1, divide2, firstResuide, secondResuide;

@@ -1,10 +1,10 @@
 var indexSectionsWithContent =
 {
-  0: "cpst",
+  0: "cnpst",
   1: "p",
   2: "c",
   3: "p",
-  4: "st",
+  4: "nst",
   5: "p"
 };
 

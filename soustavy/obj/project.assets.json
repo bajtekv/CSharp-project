@@ -3053,11 +3053,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\student\\source\\repos\\soustavy\\soustavy\\soustavy.csproj",
+      "projectUniqueName": "C:\\Users\\student\\Downloads\\vasek-necum tam\\CSharp-project\\soustavy\\soustavy.csproj",
       "projectName": "soustavy",
-      "projectPath": "C:\\Users\\student\\source\\repos\\soustavy\\soustavy\\soustavy.csproj",
+      "projectPath": "C:\\Users\\student\\Downloads\\vasek-necum tam\\CSharp-project\\soustavy\\soustavy.csproj",
       "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\student\\source\\repos\\soustavy\\soustavy\\obj\\",
+      "outputPath": "C:\\Users\\student\\Downloads\\vasek-necum tam\\CSharp-project\\soustavy\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
