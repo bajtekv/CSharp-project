@@ -32,7 +32,7 @@ using Console = Colorful.Console;
  * \details Konzolová aplikace 
  *   - Uživatel zadává vstup v desítkové soustavě
  *   - Uživatel získá výstup ve zvolené soustavě
- *      + HExa
+ *      + Hexa
  *      + Octa
  *      + Bin
  *      
