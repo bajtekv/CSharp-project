@@ -1,0 +1,33 @@
+C:\Users\student\source\repos\soustavy\soustavy\bin\Debug\netcoreapp2.1\soustavy.deps.json
+C:\Users\student\source\repos\soustavy\soustavy\bin\Debug\netcoreapp2.1\soustavy.runtimeconfig.json
+C:\Users\student\source\repos\soustavy\soustavy\bin\Debug\netcoreapp2.1\soustavy.runtimeconfig.dev.json
+C:\Users\student\source\repos\soustavy\soustavy\bin\Debug\netcoreapp2.1\soustavy.dll
+C:\Users\student\source\repos\soustavy\soustavy\obj\Debug\netcoreapp2.1\soustavy.csprojAssemblyReference.cache
+C:\Users\student\source\repos\soustavy\soustavy\obj\Debug\netcoreapp2.1\soustavy.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\soustavy\soustavy\obj\Debug\netcoreapp2.1\soustavy.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\soustavy\soustavy\obj\Debug\netcoreapp2.1\soustavy.AssemblyInfo.cs
+C:\Users\student\source\repos\soustavy\soustavy\bin\Debug\netcoreapp2.1\soustavy.pdb
+C:\Users\student\source\repos\soustavy\soustavy\obj\Debug\netcoreapp2.1\soustavy.dll
+C:\Users\student\source\repos\soustavy\soustavy\obj\Debug\netcoreapp2.1\soustavy.pdb
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\bin\Debug\netcoreapp2.1\soustavy.deps.json
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\bin\Debug\netcoreapp2.1\soustavy.runtimeconfig.json
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\bin\Debug\netcoreapp2.1\soustavy.runtimeconfig.dev.json
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\bin\Debug\netcoreapp2.1\soustavy.dll
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\bin\Debug\netcoreapp2.1\soustavy.pdb
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\obj\Debug\netcoreapp2.1\soustavy.csprojAssemblyReference.cache
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\obj\Debug\netcoreapp2.1\soustavy.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\obj\Debug\netcoreapp2.1\soustavy.AssemblyInfoInputs.cache
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\obj\Debug\netcoreapp2.1\soustavy.AssemblyInfo.cs
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\obj\Debug\netcoreapp2.1\soustavy.dll
+C:\Users\student\Downloads\vasek-necum tam\CSharp-project\soustavy\obj\Debug\netcoreapp2.1\soustavy.pdb
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\bin\Debug\netcoreapp2.1\soustavy.deps.json
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\bin\Debug\netcoreapp2.1\soustavy.runtimeconfig.json
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\bin\Debug\netcoreapp2.1\soustavy.runtimeconfig.dev.json
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\bin\Debug\netcoreapp2.1\soustavy.dll
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\bin\Debug\netcoreapp2.1\soustavy.pdb
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\obj\Debug\netcoreapp2.1\soustavy.csprojAssemblyReference.cache
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\obj\Debug\netcoreapp2.1\soustavy.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\obj\Debug\netcoreapp2.1\soustavy.AssemblyInfoInputs.cache
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\obj\Debug\netcoreapp2.1\soustavy.AssemblyInfo.cs
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\obj\Debug\netcoreapp2.1\soustavy.dll
+C:\Users\student\Documents\nvs projekt\CSharp-project-master\soustavy\obj\Debug\netcoreapp2.1\soustavy.pdb
